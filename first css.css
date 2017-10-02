@@ -1,0 +1,7 @@
+body {background-color:rgb(0,255,255)}
+    h1 {color:blue}
+header {
+    height: 30vh;
+    background-image: url("C:/Users/Tushar/Desktop/image.jpg");
+    background-repeat: repeat-y;
+    }
